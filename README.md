@@ -1,5 +1,7 @@
 # Task-Tracker-Demo (CLI)
 
+The purpose of this project is to practice and show how to use the File System library for JS, getting interactive user input from the terminal in JS, as well as to practice interacting with JSON objects.
+
 Task Tracker CLI is a command-line interface (CLI) application that allows users to manage tasks from the terminal. Users can add, update, delete, mark, and list tasks, with all task data stored in a JSON file. The project is implemented in JavaScript using Node.js and utilizes the built-in `fs` and `readline` modules.
 
 ## Features
